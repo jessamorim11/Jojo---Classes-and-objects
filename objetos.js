@@ -1,5 +1,5 @@
 class Personagem {
-    constructor (nome, tipo, poder, temporada, vivo) {
+    constructor (nome, poder, temporada, vivo, tipo) {
         this.nome = nome;
         this.tipo = tipo;
         this.poder = poder;
